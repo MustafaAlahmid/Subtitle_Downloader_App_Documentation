@@ -1,5 +1,5 @@
-# Subtitle Downloader App Documentation
-The Subtitle Downloader app is a Python application built with PyQt5 that allows users to select a file or paste a YouTube URL, extract the subtitle text from the input, and save it in either .txt or .srt format.
+# Youtube Subtitle App Documentation
+The Youtube Subtitle App is a Python application built with PyQt5 that allows users to select a file or paste a YouTube URL, extract the subtitle text from the input, and save it in either .txt or .srt format.
 
 ![image](https://github.com/MustafaAlahmid/Subtitle_Downloader_App_Documentation/assets/39446930/89b3f5a8-d720-4eb1-a256-449c6204023a)
 
