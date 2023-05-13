@@ -44,4 +44,17 @@ Extract Subtitle: After selecting a file or pasting a YouTube URL, click the "Ge
 
 Save Subtitle: Click the "Save Text" button to save the extracted subtitle text. A file selection dialog will open, allowing you to choose the location and file name for the saved file. You can choose either .txt or .srt format for the saved file using the file extension.
 
+## Additional Features (TO DO)
+
+#### 1. Translation for the Subtitle
+
+#### 2.add the select file function
+
+#### 3. Putting Subtitle/Transcript to the Video
+
+## License
+The Subtitle Downloader app is licensed under the MIT License. You are free to use, modify, and distribute the application in accordance with the terms of the license.
+
+### Acknowledgements
+The Subtitle Downloader app is built using PyQt5, an open-source Python library for creating GUI applications. Additional libraries such as moviepy or ffmpeg might be used for specific features.
 
