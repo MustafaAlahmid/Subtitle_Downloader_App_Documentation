@@ -2,6 +2,8 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLineEdit, QFileDialog, QLabel, QVBoxLayout, QTextEdit
 from youtube_transcript_api import YouTubeTranscriptApi
 
+## youtube_transcript_api get youtube ID not URl 
+## the function is to Split ID from URL 
 def get_ytid(url):
     from urllib.parse import urlparse
     url_data = urlparse(url)
